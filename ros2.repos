@@ -1,0 +1,12 @@
+repositories:
+  # The Adlink Robot Code
+  neuronbot2:
+    type: git
+    url: https://github.com/Adlink-ROS/neuronbot2.git
+    version: humble
+  
+# TurtleBot3 Simulations
+  turtlebot3_simulations:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    version: humble
